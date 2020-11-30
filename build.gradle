@@ -1,0 +1,43 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'ca.uvic.seng330.assn3'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java-library'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+mainClassName = "ca.uvic.seng330.assn3.Main"
+
+test {
+    testLogging {
+        events "passed", "skipped", "failed", "standardOut", "standardError"
+    }
+}
+
+dependencies {
+
+
+    compile 'org.json:json:20180813','org.slf4j:slf4j-simple:1.7.25'
+    //compile 'org.json:json:20180813', 'org.slf4j:slf4j-simple:1.7.25'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile "org.testfx:testfx-core:4.0.15-alpha"
+    testCompile "org.testfx:testfx-junit:4.0.15-alpha"
+    testCompile (
+            'junit:junit:4.11',
+            "org.mockito:mockito-core:2.+"
+    )
+    testRuntime(
+            'junit:junit:4.11'
+    )
+
+
+}

@@ -1,0 +1,2588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d424b5be-18e3-47e9-9448-2a523b3d81fa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="assn3-team-brandon-and-jonathan" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="assn3-team-brandon-and-jonathan" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="assn3-team-brandon-and-jonathan" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1586697691">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="assn3" value="2" />
+          <entry key="fxml" value="1" />
+          <entry key="java" value="231" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="231" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8174" />
+          <entry key="txt" value="475" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8174" />
+          <entry key="PLAIN_TEXT" value="475" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/createUser_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraAction_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/adminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/loginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/login_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/deviceConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Hub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-642">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/JSONMessaging.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfig_page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Brandon\.gradle\wrapper\dists\gradle-4.8-all\41c9mvq2w0645xx6nsenaerjl\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assn3-team-brandon-and-jonathan" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assn3-team-brandon-and-jonathan" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'assn3-team-brandon-and-jonathan'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'assn3-team-brandon-and-jonathan'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'assn3-team-brandon-and-jonathan'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'assn3-team-brandon-and-jonathan'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4629328266389" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2062556455" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="assn3-team-brandon-and-jonathan" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/interface.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/hubModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Lightbulb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/lightModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/lightController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/SmartPlug.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/plugModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/View.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/DesktopPaneTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActioinUser_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/adminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/adminModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraAction_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/createUser_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActionUser_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/login_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Thermostat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Camera.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Client_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Device.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Hub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/admin_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/user_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfigController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfigUser_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfig_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/loginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/loginModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoAction_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/device_page.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1093" />
+    <option name="y" value="-19" />
+    <option name="width" value="1088" />
+    <option name="height" value="1033" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assn3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assn3-team-brandon-and-jonathan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assn3-team-brandon-and-jonathan" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="assn3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543641232445" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brandon\Documents\School\assn3-team-brandon-and-jonathan\src\main\java\ca\uvic\seng330\assn3" />
+      <recent name="C:\Users\Brandon\Documents\School\assn3-team-brandon-and-jonathan\src\main\java\ca\uvic\seng330\assn3\devices" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Brandon\Documents\School\assn3-team-brandon-and-jonathan" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.uvic.seng330.assn3.Main" />
+      <module name="assn3-team-brandon-and-jonathan_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.uvic.seng330.assn3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assn3-team-brandon-and-jonathan [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="assn3-team-brandon-and-jonathan [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.assn3-team-brandon-and-jonathan [build]" />
+      <item itemvalue="Gradle.assn3-team-brandon-and-jonathan [run]" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.assn3-team-brandon-and-jonathan [run]" />
+        <item itemvalue="Gradle.assn3-team-brandon-and-jonathan [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d424b5be-18e3-47e9-9448-2a523b3d81fa" name="Default Changelist" comment="" />
+      <created>1541446888527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541446888527</updated>
+      <workItem from="1541446889806" duration="4068000" />
+      <workItem from="1541530262794" duration="698000" />
+      <workItem from="1541614919956" duration="1733000" />
+      <workItem from="1542224212858" duration="5284000" />
+      <workItem from="1542339630421" duration="10301000" />
+      <workItem from="1542406571728" duration="2871000" />
+      <workItem from="1542831011619" duration="19086000" />
+      <workItem from="1543299098719" duration="2424000" />
+      <workItem from="1543352217321" duration="118000" />
+      <workItem from="1543384470415" duration="3322000" />
+      <workItem from="1543475269840" duration="3886000" />
+      <workItem from="1543594827173" duration="7325000" />
+      <workItem from="1543636685009" duration="1656000" />
+      <workItem from="1562360380668" duration="1871000" />
+    </task>
+    <task id="LOCAL-00001" summary="added controllers/models for smartplug and lightbulb">
+      <created>1542228109104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542228109104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added camera constructor">
+      <created>1542342290130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542342290130</updated>
+    </task>
+    <task id="LOCAL-00003" summary="thermostat working">
+      <created>1542345560261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542345560261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="thermostat fully working">
+      <created>1542347163377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542347163377</updated>
+    </task>
+    <task id="LOCAL-00005" summary="thermostat fully working">
+      <created>1542349934080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542349934080</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated document">
+      <created>1542408528474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542408528474</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed a ton of stuff">
+      <created>1542847983197</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542847983197</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed a ton of stuff">
+      <created>1542851205387</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542851205387</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added movement detection">
+      <created>1543387776106</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543387776106</updated>
+    </task>
+    <task id="LOCAL-00010" summary="got rid of things we weren't using and made the client register notification display the username instead of the uuid">
+      <created>1543476965753</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543476965753</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reformated code and fixed warnings">
+      <created>1543479147607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543479147607</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added alerts to add device">
+      <created>1543629841753</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543629841753</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added class diagram and design document">
+      <created>1543630270029</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543630270029</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64643000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1093" y="-19" width="1088" height="1033" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28210115" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29810902" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32703003" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.28476083" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3298969" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.34341398" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2045721" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29365963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32814237" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2857143" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3298969" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.34341398" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added controllers/models for smartplug and lightbulb" />
+    <MESSAGE value="added camera constructor" />
+    <MESSAGE value="thermostat working" />
+    <MESSAGE value="thermostat fully working" />
+    <MESSAGE value="updated document" />
+    <MESSAGE value="changed a ton of stuff" />
+    <MESSAGE value="added movement detection" />
+    <MESSAGE value="got rid of things we weren't using and made the client register notification display the username instead of the uuid" />
+    <MESSAGE value="removed unused variables" />
+    <MESSAGE value="reformated code and fixed warnings" />
+    <MESSAGE value="added alerts to add device" />
+    <MESSAGE value="added class diagram and design document" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class diagram and design document" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/plugAction_page.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/WebClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/plugModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/DesktopPaneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActioinUser_page.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraModel.java" />
+    <entry file="uml://JAVA/ca.uvic.seng330.assn3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ca.uvic.seng330.assn3</OriginalElement>
+          <nodes>
+            <node x="332.60983565888796" y="109.0">ca.uvic.seng330.assn3.Mediator</node>
+            <node x="2139.0471158481478" y="1612.0">ca.uvic.seng330.assn3.createUser_page</node>
+            <node x="1384.4043064835992" y="2348.0">ca.uvic.seng330.assn3.Main</node>
+            <node x="2246.917696656229" y="2149.0">ca.uvic.seng330.assn3.loginController</node>
+            <node x="420.5999378640224" y="686.0">ca.uvic.seng330.assn3.plugController</node>
+            <node x="1057.9808902449743" y="1353.0">ca.uvic.seng330.assn3.device_page</node>
+            <node x="2485.2021091452457" y="915.0">ca.uvic.seng330.assn3.admin_page</node>
+            <node x="2438.8071603977633" y="1353.0">ca.uvic.seng330.assn3.Client_page</node>
+            <node x="2035.5471158481478" y="527.0">ca.uvic.seng330.assn3.deviceConfig_page</node>
+            <node x="3187.369433602499" y="3113.0">ca.uvic.seng330.assn3.AdminInterfaceTest</node>
+            <node x="1086.5168310141216" y="228.0">ca.uvic.seng330.assn3.devices</node>
+            <node x="2945.6551478882134" y="2457.0">ca.uvic.seng330.assn3.deviceActionController</node>
+            <node x="1323.8355123328029" y="0.0">ca.uvic.seng330.assn3.Status</node>
+            <node x="2617.949606439617" y="2646.0">ca.uvic.seng330.assn3.Client</node>
+            <node x="24.333333333333485" y="3113.0">ca.uvic.seng330.assn3.deviceConfigTest</node>
+            <node x="1210.7666045306885" y="1194.0">ca.uvic.seng330.assn3.thermoAction_pageTest</node>
+            <node x="566.5999378640224" y="527.0">ca.uvic.seng330.assn3.JSONMessaging</node>
+            <node x="371.29962601465786" y="2457.0">ca.uvic.seng330.assn3.Hub</node>
+            <node x="2138.730277716829" y="1771.0">ca.uvic.seng330.assn3.login_page</node>
+            <node x="1715.2308902449743" y="915.0">ca.uvic.seng330.assn3.deviceConfigUser_page</node>
+            <node x="1511.1523045860865" y="686.0">ca.uvic.seng330.assn3.thermoController</node>
+            <node x="2337.022493805754" y="1612.0">ca.uvic.seng330.assn3.adminController</node>
+            <node x="21.5" y="2646.0">ca.uvic.seng330.assn3.NewTests</node>
+            <node x="2945.1551478882134" y="2895.0">ca.uvic.seng330.assn3.deviceActionUser_page</node>
+            <node x="1982.2645097891045" y="1940.0">ca.uvic.seng330.assn3.user_page</node>
+            <node x="2785.1551478882134" y="2984.0">ca.uvic.seng330.assn3.DesktopPaneTest</node>
+            <node x="184.33333333333348" y="3113.0">ca.uvic.seng330.assn3.addDeviceTests</node>
+            <node x="1950.8630578771333" y="686.0">ca.uvic.seng330.assn3.cameraController</node>
+            <node x="3029.800096523538" y="3113.0">ca.uvic.seng330.assn3.cameraTests</node>
+            <node x="2670.861030241155" y="915.0">ca.uvic.seng330.assn3.cameraAction_page</node>
+            <node x="881.5166045306889" y="686.0">ca.uvic.seng330.assn3.lightController</node>
+            <node x="986.6721636264566" y="2895.0">ca.uvic.seng330.assn3.loginModel</node>
+            <node x="1336.5649638640152" y="686.0">ca.uvic.seng330.assn3.adminModel</node>
+            <node x="719.5999378640224" y="527.0">ca.uvic.seng330.assn3.deviceController</node>
+            <node x="1836.608351359718" y="109.0">ca.uvic.seng330.assn3.HubRegistrationException</node>
+            <node x="1541.2308902449743" y="915.0">ca.uvic.seng330.assn3.thermoAction_page</node>
+            <node x="1854.8630578771333" y="1194.0">ca.uvic.seng330.assn3.deviceConfigController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_pageTest" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="-32.8125" y="-14.5" />
+              <point x="1265.4541045306885" y="1174.0" />
+              <point x="1269.1247776076116" y="1174.0" />
+              <point x="1269.1247776076116" y="885.0" />
+              <point x="1376.7188100178614" y="885.0" />
+              <point x="-17.84615384615381" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraAction_page" target="ca.uvic.seng330.assn3.Client">
+              <point x="0.0" y="14.5" />
+              <point x="2747.361030241155" y="2596.0" />
+              <point x="2680.684900557264" y="2596.0" />
+              <point x="23.235294117646845" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client_page" target="ca.uvic.seng330.assn3.HubRegistrationException">
+              <point x="-36.666666666666515" y="-14.5" />
+              <point x="2457.1404937310967" y="1333.0" />
+              <point x="2469.97382706443" y="1333.0" />
+              <point x="2469.97382706443" y="198.0" />
+              <point x="1998.483351359718" y="198.0" />
+              <point x="69.375" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.device_page" target="ca.uvic.seng330.assn3.devices">
+              <point x="-14.125" y="-14.5" />
+              <point x="1100.3558902449743" y="497.0" />
+              <point x="1146.9215929188836" y="497.0" />
+              <point x="1.4047619047619264" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client" target="ca.uvic.seng330.assn3.Hub">
+              <point x="-37.176470588235134" y="-14.5" />
+              <point x="2620.273135851382" y="2626.0" />
+              <point x="419.70871692374885" y="2626.0" />
+              <point x="12.909090909090992" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.Main">
+              <point x="-42.08333333333326" y="14.5" />
+              <point x="1990.6811764557713" y="2129.0" />
+              <point x="2036.4039038367296" y="2129.0" />
+              <point x="2036.4039038367296" y="2298.0" />
+              <point x="1441.9043064835992" y="2298.0" />
+              <point x="20.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.thermoController">
+              <point x="-22.304347826086996" y="-14.5" />
+              <point x="1918.0587100510463" y="1074.0" />
+              <point x="1897.7308902449743" y="1074.0" />
+              <point x="1897.7308902449743" y="835.0" />
+              <point x="1616.1523045860865" y="835.0" />
+              <point x="34.999999999999986" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.adminController">
+              <point x="42.750000000000114" y="14.5" />
+              <point x="1983.1130578771335" y="1293.0" />
+              <point x="2343.044002503026" y="1293.0" />
+              <point x="2343.044002503026" y="1522.0" />
+              <point x="2354.7856517004907" y="1522.0" />
+              <point x="-49.73684210526335" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.Main">
+              <point x="-28.444444444444343" y="14.5" />
+              <point x="2282.4732522117847" y="2328.0" />
+              <point x="1456.9043064835992" y="2328.0" />
+              <point x="35.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.Main">
+              <point x="-21.85714285714289" y="14.5" />
+              <point x="1595.8737473878314" y="1164.0" />
+              <point x="1404.0166045306885" y="1164.0" />
+              <point x="1404.0166045306885" y="2208.0" />
+              <point x="1396.9043064835992" y="2208.0" />
+              <point x="-25.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.login_page">
+              <point x="-20.769230769230944" y="14.5" />
+              <point x="2383.753263036523" y="1741.0" />
+              <point x="2238.105277716829" y="1741.0" />
+              <point x="46.375" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigUser_page" target="ca.uvic.seng330.assn3.Client">
+              <point x="73.71428571428578" y="14.5" />
+              <point x="1874.94517595926" y="1014.0" />
+              <point x="2625.371140535273" y="1014.0" />
+              <point x="2625.371140535273" y="2556.0" />
+              <point x="2652.802547616088" y="2556.0" />
+              <point x="-4.647058823529278" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.thermoAction_page">
+              <point x="-74.34782608695662" y="-14.5" />
+              <point x="1866.0152317901766" y="1144.0" />
+              <point x="1639.5880331021172" y="1144.0" />
+              <point x="21.857142857142833" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.createUser_page" target="ca.uvic.seng330.assn3.HubRegistrationException">
+              <point x="0.0" y="-14.5" />
+              <point x="2206.0471158481478" y="208.0" />
+              <point x="1952.233351359718" y="208.0" />
+              <point x="23.125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_pageTest" target="ca.uvic.seng330.assn3.thermoController">
+              <point x="10.9375" y="-14.5" />
+              <point x="1309.2041045306885" y="1124.0" />
+              <point x="1419.5166045306885" y="1124.0" />
+              <point x="1419.5166045306885" y="885.0" />
+              <point x="1522.8189712527533" y="885.0" />
+              <point x="-58.333333333333314" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.Status">
+              <point x="-32.541666666666515" y="-14.5" />
+              <point x="374.25795934799135" y="2437.0" />
+              <point x="306.20507375412603" y="2437.0" />
+              <point x="306.20507375412603" y="865.0" />
+              <point x="293.2586451826976" y="865.0" />
+              <point x="293.2586451826976" y="49.0" />
+              <point x="1327.8355123328029" y="49.0" />
+              <point x="-36.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.addDeviceTests" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="32.5" y="-14.5" />
+              <point x="281.8333333333335" y="3073.0" />
+              <point x="1017.5054969597899" y="3073.0" />
+              <point x="1017.5054969597899" y="2964.0" />
+              <point x="1013.9221636264566" y="2964.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraController" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="-15.555555555555543" y="14.5" />
+              <point x="2005.3075023215779" y="885.0" />
+              <point x="1991.66265655296" y="885.0" />
+              <point x="1991.66265655296" y="1044.0" />
+              <point x="1962.66740570322" y="1044.0" />
+              <point x="22.304347826086882" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.Main">
+              <point x="32.541666666666515" y="-14.5" />
+              <point x="439.3412926813244" y="2437.0" />
+              <point x="1391.9043064835992" y="2437.0" />
+              <point x="-30.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Mediator" target="ca.uvic.seng330.assn3.Hub">
+              <point x="-6.0" y="14.5" />
+              <point x="374.60983565888796" y="2407.0" />
+              <point x="392.00795934799135" y="2407.0" />
+              <point x="-14.791666666666515" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.login_page" target="ca.uvic.seng330.assn3.adminController">
+              <point x="19.875" y="-14.5" />
+              <point x="2211.605277716829" y="1721.0" />
+              <point x="2362.9840322672926" y="1721.0" />
+              <point x="-41.53846153846143" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.admin_page" target="ca.uvic.seng330.assn3.adminController">
+              <point x="-38.84375" y="14.5" />
+              <point x="2502.8583591452457" y="1114.0" />
+              <point x="2406.991370924079" y="1114.0" />
+              <point x="2406.991370924079" y="1432.0" />
+              <point x="2418.7330201215436" y="1432.0" />
+              <point x="14.210526315789593" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.login_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="-46.375" y="-14.5" />
+              <point x="2145.355277716829" y="1681.0" />
+              <point x="1945.8630578771333" y="1681.0" />
+              <point x="1945.8630578771333" y="1333.0" />
+              <point x="1944.249421513497" y="1333.0" />
+              <point x="3.886363636363626" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfig_page" target="ca.uvic.seng330.assn3.Client">
+              <point x="39.73333333333335" y="14.5" />
+              <point x="2149.7804491814813" y="636.0" />
+              <point x="2834.361030241155" y="636.0" />
+              <point x="2834.361030241155" y="2606.0" />
+              <point x="2685.3319593807937" y="2606.0" />
+              <point x="27.882352941176578" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigTest" target="ca.uvic.seng330.assn3.DesktopPaneTest">
+              <point x="58.333333333333314" y="-14.5" />
+              <point x="152.66666666666674" y="3083.0" />
+              <point x="2802.5301478882134" y="3083.0" />
+              <point x="-52.125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.Main">
+              <point x="-51.92307692307713" y="14.5" />
+              <point x="2352.599416882677" y="1711.0" />
+              <point x="1429.0166045306885" y="1711.0" />
+              <point x="1429.0166045306885" y="2258.0" />
+              <point x="1421.9043064835992" y="2258.0" />
+              <point x="0.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client_page" target="ca.uvic.seng330.assn3.adminController">
+              <point x="0.0" y="14.5" />
+              <point x="2493.8071603977633" y="1582.0" />
+              <point x="2461.364599068912" y="1582.0" />
+              <point x="56.84210526315792" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="-42.631578947368325" y="-14.5" />
+              <point x="2361.8909148583857" y="1512.0" />
+              <point x="2350.149265660921" y="1512.0" />
+              <point x="2350.149265660921" y="1283.0" />
+              <point x="1990.8857851498606" y="1283.0" />
+              <point x="50.522727272727366" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.Status">
+              <point x="21.85714285714289" y="-14.5" />
+              <point x="1639.5880331021172" y="865.0" />
+              <point x="1683.6523045860865" y="865.0" />
+              <point x="1683.6523045860865" y="79.0" />
+              <point x="1375.8355123328029" y="79.0" />
+              <point x="12.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Main" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="15.0" y="14.5" />
+              <point x="1436.9043064835992" y="2437.0" />
+              <point x="1425.7971636264565" y="2437.0" />
+              <point x="1425.7971636264565" y="2815.0" />
+              <point x="1070.3685921978854" y="2815.0" />
+              <point x="29.19642857142867" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.deviceConfig_page">
+              <point x="-21.315789473684163" y="-14.5" />
+              <point x="2383.20670433207" y="1482.0" />
+              <point x="2371.4650551346053" y="1482.0" />
+              <point x="2371.4650551346053" y="656.0" />
+              <point x="2129.9137825148146" y="656.0" />
+              <point x="19.866666666666674" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.login_page">
+              <point x="31.5625" y="-14.5" />
+              <point x="2064.3270097891045" y="1910.0" />
+              <point x="2179.9524999390514" y="1910.0" />
+              <point x="-11.777777777777828" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.addDeviceTests" target="ca.uvic.seng330.assn3.DesktopPaneTest">
+              <point x="54.16666666666674" y="-14.5" />
+              <point x="303.5000000000002" y="3093.0" />
+              <point x="2837.2801478882134" y="3093.0" />
+              <point x="-17.375" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraTests" target="ca.uvic.seng330.assn3.devices">
+              <point x="25.333333333333258" y="-14.5" />
+              <point x="3112.1334298568713" y="3073.0" />
+              <point x="3175.3319593807933" y="3073.0" />
+              <point x="3175.3319593807933" y="337.0" />
+              <point x="1197.493021490312" y="337.0" />
+              <point x="51.97619047619037" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.Status">
+              <point x="7.105263157894569" y="-14.5" />
+              <point x="2411.6277569636486" y="1442.0" />
+              <point x="2399.886107766184" y="1442.0" />
+              <point x="2399.886107766184" y="59.0" />
+              <point x="1391.8355123328029" y="59.0" />
+              <point x="28.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.Mediator">
+              <point x="-49.16666666666674" y="-14.5" />
+              <point x="1096.3501643474547" y="188.0" />
+              <point x="386.60983565888796" y="188.0" />
+              <point x="6.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionUser_page" target="ca.uvic.seng330.assn3.Client">
+              <point x="-68.39999999999998" y="-14.5" />
+              <point x="2962.2551478882133" y="2875.0" />
+              <point x="2683.7829397729506" y="2875.0" />
+              <point x="26.333333333333485" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.device_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="14.125" y="-14.5" />
+              <point x="1128.6058902449743" y="1293.0" />
+              <point x="1889.840330604406" y="1293.0" />
+              <point x="-50.52272727272725" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionUser_page" target="ca.uvic.seng330.assn3.deviceActionController">
+              <point x="68.40000000000009" y="-14.5" />
+              <point x="3099.0551478882135" y="2865.0" />
+              <point x="3057.4569593807933" y="2865.0" />
+              <point x="3057.4569593807933" y="2626.0" />
+              <point x="3094.4051478882134" y="2626.0" />
+              <point x="63.75" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.deviceConfig_page">
+              <point x="43.71428571428572" y="-14.5" />
+              <point x="1661.44517595926" y="875.0" />
+              <point x="1694.6523045860865" y="875.0" />
+              <point x="1694.6523045860865" y="636.0" />
+              <point x="2060.3804491814813" y="636.0" />
+              <point x="-49.66666666666663" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.device_page">
+              <point x="-56.84210526315792" y="-14.5" />
+              <point x="2347.680388542596" y="1532.0" />
+              <point x="1159.680890244974" y="1532.0" />
+              <point x="45.19999999999982" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.user_page">
+              <point x="-55.27272727272725" y="-14.5" />
+              <point x="2255.644969383502" y="2109.0" />
+              <point x="2024.3478431224378" y="2109.0" />
+              <point x="-8.416666666666742" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionController" target="ca.uvic.seng330.assn3.deviceConfig_page">
+              <point x="42.5" y="-14.5" />
+              <point x="3073.1551478882134" y="2427.0" />
+              <point x="3044.99862604746" y="2427.0" />
+              <point x="3044.99862604746" y="616.0" />
+              <point x="2169.647115848148" y="616.0" />
+              <point x="59.60000000000002" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraAction_page" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="-51.0" y="-14.5" />
+              <point x="2696.361030241155" y="795.0" />
+              <point x="1430.2572715563228" y="795.0" />
+              <point x="35.69230769230762" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-14.222222222222172" y="14.5" />
+              <point x="2296.6954744340073" y="2328.0" />
+              <point x="2301.8601569736898" y="2328.0" />
+              <point x="2301.8601569736898" y="2825.0" />
+              <point x="1074.2614493407423" y="2825.0" />
+              <point x="33.08928571428578" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.login_page" target="ca.uvic.seng330.assn3.loginController">
+              <point x="11.777777777777828" y="14.5" />
+              <point x="2203.508055494607" y="1920.0" />
+              <point x="2226.530782767334" y="1920.0" />
+              <point x="2226.530782767334" y="2069.0" />
+              <point x="2278.917696656229" y="2069.0" />
+              <point x="-32.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Main" target="ca.uvic.seng330.assn3.login_page">
+              <point x="5.0" y="-14.5" />
+              <point x="1426.9043064835992" y="2268.0" />
+              <point x="1961.7645097891045" y="2268.0" />
+              <point x="1961.7645097891045" y="1880.0" />
+              <point x="2144.619166605718" y="1880.0" />
+              <point x="-47.111111111111086" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="8.727272727272748" y="-14.5" />
+              <point x="2319.644969383502" y="1999.0" />
+              <point x="2308.962662790108" y="1999.0" />
+              <point x="2308.962662790108" y="1303.0" />
+              <point x="1975.340330604406" y="1303.0" />
+              <point x="34.97727272727275" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-9.833333333333485" y="14.5" />
+              <point x="1135.6834976807882" y="457.0" />
+              <point x="1028.016604530689" y="457.0" />
+              <point x="1028.016604530689" y="2695.0" />
+              <point x="1023.6543064835995" y="2695.0" />
+              <point x="-17.51785714285711" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraController" target="ca.uvic.seng330.assn3.deviceConfig_page">
+              <point x="52.5" y="-14.5" />
+              <point x="2073.3630578771335" y="666.0" />
+              <point x="2090.180449181481" y="666.0" />
+              <point x="-19.866666666666674" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraTests" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-50.666666666666515" y="-14.5" />
+              <point x="3036.1334298568718" y="3073.0" />
+              <point x="1028.50549695979" y="3073.0" />
+              <point x="1028.50549695979" y="2964.0" />
+              <point x="1032.0888302931235" y="2964.0" />
+              <point x="-9.083333333333258" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.AdminInterfaceTest" target="ca.uvic.seng330.assn3.admin_page">
+              <point x="21.71428571428578" y="-14.5" />
+              <point x="3285.083719316785" y="3083.0" />
+              <point x="3266.8715250949667" y="3083.0" />
+              <point x="3266.8715250949667" y="964.0" />
+              <point x="2594.6708591452457" y="964.0" />
+              <point x="52.96875" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.lightController" target="ca.uvic.seng330.assn3.devices">
+              <point x="0.0" y="-14.5" />
+              <point x="944.0166045306889" y="606.0" />
+              <point x="959.3499378640222" y="606.0" />
+              <point x="959.3499378640222" y="437.0" />
+              <point x="1130.064450061741" y="437.0" />
+              <point x="-15.452380952380736" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="18.9375" y="-14.5" />
+              <point x="2051.7020097891045" y="1820.0" />
+              <point x="1938.090330604406" y="1820.0" />
+              <point x="1938.090330604406" y="1333.0" />
+              <point x="1936.4766942407696" y="1333.0" />
+              <point x="-3.886363636363626" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.addDeviceTests" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="-54.16666666666674" y="-14.5" />
+              <point x="195.16666666666674" y="3053.0" />
+              <point x="201.3657880398407" y="3053.0" />
+              <point x="201.3657880398407" y="1273.0" />
+              <point x="1874.2948760589516" y="1273.0" />
+              <point x="-66.06818181818187" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.plugController" target="ca.uvic.seng330.assn3.deviceController">
+              <point x="41.66666666666674" y="-14.5" />
+              <point x="524.7666045306892" y="606.0" />
+              <point x="775.8499378640224" y="606.0" />
+              <point x="-11.25" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraTests" target="ca.uvic.seng330.assn3.DesktopPaneTest">
+              <point x="-38.0" y="-14.5" />
+              <point x="3048.800096523538" y="3063.0" />
+              <point x="2872.0301478882134" y="3063.0" />
+              <point x="17.375" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.devices">
+              <point x="-7.105263157894569" y="-14.5" />
+              <point x="2397.4172306478595" y="1462.0" />
+              <point x="2385.675581450395" y="1462.0" />
+              <point x="2385.675581450395" y="357.0" />
+              <point x="1191.8739738712643" y="357.0" />
+              <point x="46.35714285714266" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_pageTest" target="ca.uvic.seng330.assn3.thermoAction_page">
+              <point x="54.6875" y="-14.5" />
+              <point x="1352.9541045306885" y="1144.0" />
+              <point x="1552.1594616735456" y="1144.0" />
+              <point x="-65.57142857142857" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.admin_page" target="ca.uvic.seng330.assn3.Client">
+              <point x="38.84375" y="14.5" />
+              <point x="2580.5458591452457" y="984.0" />
+              <point x="2639.312317005861" y="984.0" />
+              <point x="2639.312317005861" y="2526.0" />
+              <point x="2666.743724086676" y="2526.0" />
+              <point x="9.29411764705901" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.Client">
+              <point x="52.55357142857133" y="-14.5" />
+              <point x="1093.725735055028" y="2875.0" />
+              <point x="2657.449606439617" y="2875.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.JSONMessaging">
+              <point x="14.791666666666515" y="-14.5" />
+              <point x="421.5912926813244" y="2407.0" />
+              <point x="633.0999378640224" y="2407.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminModel" target="ca.uvic.seng330.assn3.Client">
+              <point x="26.769230769230717" y="14.5" />
+              <point x="1421.334194633246" y="805.0" />
+              <point x="2660.361030241155" y="805.0" />
+              <point x="2660.361030241155" y="2506.0" />
+              <point x="2676.0378417337347" y="2506.0" />
+              <point x="18.588235294117567" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.devices">
+              <point x="-21.857142857142833" y="-14.5" />
+              <point x="1595.8737473878314" y="845.0" />
+              <point x="1661.6523045860865" y="845.0" />
+              <point x="1661.6523045860865" y="437.0" />
+              <point x="1169.397783395074" y="437.0" />
+              <point x="23.880952380952294" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.DesktopPaneTest" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-59.57142857142867" y="-14.5" />
+              <point x="2795.0837193167845" y="2964.0" />
+              <point x="1050.25549695979" y="2964.0" />
+              <point x="9.083333333333258" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminModel" target="ca.uvic.seng330.assn3.deviceController">
+              <point x="-43.5" y="-14.5" />
+              <point x="1351.0649638640152" y="596.0" />
+              <point x="820.8499378640224" y="596.0" />
+              <point x="33.75" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.deviceConfigUser_page">
+              <point x="-6.3125" y="-14.5" />
+              <point x="2026.4520097891045" y="1840.0" />
+              <point x="1730.7641965934895" y="1840.0" />
+              <point x="1730.7641965934895" y="1174.0" />
+              <point x="1752.0880331021172" y="1174.0" />
+              <point x="-49.14285714285711" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigTest" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="-11.666666666666515" y="-14.5" />
+              <point x="82.66666666666697" y="3043.0" />
+              <point x="131.0" y="3043.0" />
+              <point x="131.0" y="1253.0" />
+              <point x="1858.749421513497" y="1253.0" />
+              <point x="-81.61363636363637" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraTests" target="ca.uvic.seng330.assn3.cameraAction_page">
+              <point x="-25.333333333333258" y="-14.5" />
+              <point x="3061.466763190205" y="3053.0" />
+              <point x="2934.6551478882134" y="3053.0" />
+              <point x="2934.6551478882134" y="1174.0" />
+              <point x="2777.9610302411547" y="1174.0" />
+              <point x="30.59999999999991" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.deviceController">
+              <point x="-44.76785714285711" y="-14.5" />
+              <point x="996.4043064835995" y="2855.0" />
+              <point x="291.31221661126915" y="2855.0" />
+              <point x="291.31221661126915" y="875.0" />
+              <point x="304.2586451826976" y="875.0" />
+              <point x="304.2586451826976" y="586.0" />
+              <point x="730.8499378640224" y="586.0" />
+              <point x="-56.25" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.loginController">
+              <point x="42.08333333333326" y="14.5" />
+              <point x="2074.8478431224376" y="2079.0" />
+              <point x="2273.0995148380475" y="2079.0" />
+              <point x="-37.818181818181756" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.Status">
+              <point x="52.04347826086962" y="-14.5" />
+              <point x="1992.406536138003" y="1084.0" />
+              <point x="2195.0471158481478" y="1084.0" />
+              <point x="2195.0471158481478" y="69.0" />
+              <point x="1383.8355123328029" y="69.0" />
+              <point x="20.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.lightController" target="ca.uvic.seng330.assn3.deviceController">
+              <point x="-41.666666666666515" y="-14.5" />
+              <point x="902.3499378640224" y="606.0" />
+              <point x="798.3499378640224" y="606.0" />
+              <point x="11.25" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.admin_page">
+              <point x="59.47826086956525" y="-14.5" />
+              <point x="1999.8413187466986" y="1094.0" />
+              <point x="2488.7333591452457" y="1094.0" />
+              <point x="-52.96875" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.Client">
+              <point x="19.363636363636488" y="14.5" />
+              <point x="426.16326237829435" y="2616.0" />
+              <point x="2624.9201946749113" y="2616.0" />
+              <point x="-32.529411764705856" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.createUser_page" target="ca.uvic.seng330.assn3.loginController">
+              <point x="57.42857142857133" y="14.5" />
+              <point x="2263.4756872767193" y="1691.0" />
+              <point x="2261.048459535011" y="1691.0" />
+              <point x="2261.048459535011" y="2039.0" />
+              <point x="2296.372242110775" y="2039.0" />
+              <point x="-14.545454545454504" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.devices">
+              <point x="-2.958333333333485" y="-14.5" />
+              <point x="404.18327119735545" y="347.0" />
+              <point x="1104.7787357760262" y="347.0" />
+              <point x="-40.738095238095184" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.devices">
+              <point x="14.545454545454504" y="-14.5" />
+              <point x="2325.463151201684" y="1989.0" />
+              <point x="2314.7808446082895" y="1989.0" />
+              <point x="2314.7808446082895" y="367.0" />
+              <point x="1189.064450061741" y="367.0" />
+              <point x="43.547619047619264" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.devices">
+              <point x="-31.5625" y="-14.5" />
+              <point x="2001.2020097891045" y="1860.0" />
+              <point x="1473.6927680220608" y="1860.0" />
+              <point x="1473.6927680220608" y="467.0" />
+              <point x="1160.9692119665024" y="467.0" />
+              <point x="15.452380952380736" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.createUser_page" target="ca.uvic.seng330.assn3.Main">
+              <point x="-57.42857142857133" y="14.5" />
+              <point x="2148.6185444195767" y="1691.0" />
+              <point x="1424.0166045306885" y="1691.0" />
+              <point x="1424.0166045306885" y="2248.0" />
+              <point x="1416.9043064835992" y="2248.0" />
+              <point x="-5.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Main" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="-30.0" y="-14.5" />
+              <point x="1391.9043064835992" y="2198.0" />
+              <point x="1396.2666045306885" y="2198.0" />
+              <point x="1396.2666045306885" y="895.0" />
+              <point x="1394.5649638640152" y="895.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="31.15384615384619" y="14.5" />
+              <point x="2435.6763399596" y="1751.0" />
+              <point x="2576.1253422159452" y="1751.0" />
+              <point x="2576.1253422159452" y="2845.0" />
+              <point x="1082.0471636264565" y="2845.0" />
+              <point x="40.875" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.Client">
+              <point x="41.53846153846143" y="14.5" />
+              <point x="2446.0609553442155" y="1741.0" />
+              <point x="2620.724081711743" y="1741.0" />
+              <point x="2620.724081711743" y="2566.0" />
+              <point x="2648.155488792558" y="2566.0" />
+              <point x="-9.29411764705901" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionController" target="ca.uvic.seng330.assn3.deviceActionUser_page">
+              <point x="-21.25" y="14.5" />
+              <point x="3009.4051478882134" y="2626.0" />
+              <point x="3019.7801478882134" y="2626.0" />
+              <point x="3019.7801478882134" y="2875.0" />
+              <point x="3030.6551478882134" y="2875.0" />
+              <point x="0.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-27.204545454545496" y="14.5" />
+              <point x="1913.1585124225878" y="1323.0" />
+              <point x="1185.3737473878314" y="1323.0" />
+              <point x="1185.3737473878314" y="2775.0" />
+              <point x="1054.7971636264565" y="2775.0" />
+              <point x="13.625" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.JSONMessaging" target="ca.uvic.seng330.assn3.devices">
+              <point x="-33.25" y="-14.5" />
+              <point x="599.8499378640224" y="397.0" />
+              <point x="1118.8263548236455" y="397.0" />
+              <point x="-26.690476190476147" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client_page" target="ca.uvic.seng330.assn3.Main">
+              <point x="-47.14285714285734" y="14.5" />
+              <point x="2446.664303254906" y="1552.0" />
+              <point x="1419.0166045306885" y="1552.0" />
+              <point x="1419.0166045306885" y="2238.0" />
+              <point x="1411.9043064835992" y="2238.0" />
+              <point x="-10.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.Client_page">
+              <point x="42.631578947368325" y="-14.5" />
+              <point x="2447.1540727531224" y="1562.0" />
+              <point x="2462.3785889691917" y="1562.0" />
+              <point x="-31.42857142857156" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.admin_page">
+              <point x="21.315789473684163" y="-14.5" />
+              <point x="2425.838283279438" y="1422.0" />
+              <point x="2414.0966340819737" y="1422.0" />
+              <point x="2414.0966340819737" y="1124.0" />
+              <point x="2509.9208591452457" y="1124.0" />
+              <point x="-31.78125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraTests" target="ca.uvic.seng330.assn3.cameraController">
+              <point x="0.0" y="-14.5" />
+              <point x="3086.800096523538" y="3053.0" />
+              <point x="3137.6551478882134" y="3053.0" />
+              <point x="3137.6551478882134" y="765.0" />
+              <point x="2067.5297245438" y="765.0" />
+              <point x="46.66666666666663" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfig_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="0.0" y="14.5" />
+              <point x="2110.0471158481478" y="666.0" />
+              <point x="2108.797840485829" y="666.0" />
+              <point x="2108.797840485829" y="1074.0" />
+              <point x="1984.971753529307" y="1074.0" />
+              <point x="44.60869565217388" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.addDeviceTests" target="ca.uvic.seng330.assn3.device_page">
+              <point x="10.833333333333258" y="-14.5" />
+              <point x="260.16666666666674" y="3073.0" />
+              <point x="245.3657880398407" y="3073.0" />
+              <point x="245.3657880398407" y="1592.0" />
+              <point x="1091.8808902449744" y="1592.0" />
+              <point x="-22.59999999999991" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client_page" target="ca.uvic.seng330.assn3.loginController">
+              <point x="47.14285714285734" y="14.5" />
+              <point x="2540.9500175406206" y="1592.0" />
+              <point x="2521.0730665069864" y="1592.0" />
+              <point x="2521.0730665069864" y="2109.0" />
+              <point x="2360.372242110775" y="2109.0" />
+              <point x="49.454545454545496" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.Hub">
+              <point x="-29.5" y="14.5" />
+              <point x="1116.0168310141216" y="387.0" />
+              <point x="556.0999378640224" y="387.0" />
+              <point x="556.0999378640224" y="2397.0" />
+              <point x="415.67462601465786" y="2397.0" />
+              <point x="8.875" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="65.57142857142853" y="14.5" />
+              <point x="1683.3023188164027" y="1124.0" />
+              <point x="1880.884797007568" y="1124.0" />
+              <point x="-59.47826086956525" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.admin_page" target="ca.uvic.seng330.assn3.Status">
+              <point x="0.0" y="-14.5" />
+              <point x="2541.7021091452457" y="49.0" />
+              <point x="1399.8355123328029" y="49.0" />
+              <point x="36.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_page" target="ca.uvic.seng330.assn3.thermoController">
+              <point x="-43.714285714285666" y="-14.5" />
+              <point x="1574.0166045306887" y="835.0" />
+              <point x="1592.8189712527533" y="835.0" />
+              <point x="11.666666666666657" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.cameraController">
+              <point x="14.869565217391255" y="-14.5" />
+              <point x="1955.2326230945246" y="1034.0" />
+              <point x="1984.2278739442645" y="1034.0" />
+              <point x="1984.2278739442645" y="875.0" />
+              <point x="1989.7519467660222" y="875.0" />
+              <point x="-31.111111111111086" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigTest" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="35.0" y="-14.5" />
+              <point x="129.33333333333348" y="3063.0" />
+              <point x="212.3657880398407" y="3063.0" />
+              <point x="212.3657880398407" y="2964.0" />
+              <point x="995.7554969597899" y="2964.0" />
+              <point x="-45.41666666666674" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="-12.909090909090992" y="14.5" />
+              <point x="393.89053510556687" y="2596.0" />
+              <point x="392.43190388619655" y="2596.0" />
+              <point x="392.43190388619655" y="2825.0" />
+              <point x="1008.0828779121708" y="2825.0" />
+              <point x="-33.08928571428578" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.devices">
+              <point x="-7.4347826086956275" y="-14.5" />
+              <point x="1932.9282752684378" y="417.0" />
+              <point x="1175.0168310141216" y="417.0" />
+              <point x="29.5" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.adminController">
+              <point x="37.818181818181756" y="-14.5" />
+              <point x="2348.735878474411" y="2089.0" />
+              <point x="2428.6122735422523" y="2089.0" />
+              <point x="2428.6122735422523" y="1741.0" />
+              <point x="2425.291724574985" y="1741.0" />
+              <point x="20.769230769230944" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.devices">
+              <point x="-54.785714285714334" y="14.5" />
+              <point x="1090.7311167284072" y="287.0" />
+              <point x="1056.5168310141216" y="287.0" />
+              <point x="1056.5168310141216" y="242.5" />
+              <point x="-59.0" y="-0.0" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.loginController">
+              <point x="19.431818181818244" y="14.5" />
+              <point x="1959.7948760589516" y="1323.0" />
+              <point x="2297.326299153744" y="1323.0" />
+              <point x="2297.326299153744" y="2019.0" />
+              <point x="2308.008605747138" y="2019.0" />
+              <point x="-2.9090909090909918" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigUser_page" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="49.14285714285711" y="14.5" />
+              <point x="1850.3737473878314" y="1084.0" />
+              <point x="1910.6239274423506" y="1084.0" />
+              <point x="-29.739130434782624" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.Main">
+              <point x="-19.43181818181813" y="14.5" />
+              <point x="1920.931239695315" y="1333.0" />
+              <point x="1414.0166045306885" y="1333.0" />
+              <point x="1414.0166045306885" y="2228.0" />
+              <point x="1406.9043064835992" y="2228.0" />
+              <point x="-15.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Mediator" target="ca.uvic.seng330.assn3.Client">
+              <point x="42.0" y="14.5" />
+              <point x="422.60983565888796" y="158.0" />
+              <point x="2843.6551478882134" y="158.0" />
+              <point x="2843.6551478882134" y="2626.0" />
+              <point x="2694.6260770278523" y="2626.0" />
+              <point x="37.176470588235134" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoController" target="ca.uvic.seng330.assn3.Status">
+              <point x="46.66666666666666" y="-14.5" />
+              <point x="1627.8189712527533" y="596.0" />
+              <point x="1581.524500428041" y="596.0" />
+              <point x="1581.524500428041" y="89.0" />
+              <point x="1367.8355123328029" y="89.0" />
+              <point x="4.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.Hub">
+              <point x="-36.98214285714289" y="-14.5" />
+              <point x="1004.1900207693137" y="2835.0" />
+              <point x="388.53904674333967" y="2835.0" />
+              <point x="388.53904674333967" y="2626.0" />
+              <point x="387.4359896510214" y="2626.0" />
+              <point x="-19.363636363636488" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.AdminInterfaceTest" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="65.14285714285734" y="-14.5" />
+              <point x="3328.5122907453565" y="3063.0" />
+              <point x="3288.8715250949667" y="3063.0" />
+              <point x="3288.8715250949667" y="735.0" />
+              <point x="1448.1034254024767" y="735.0" />
+              <point x="53.53846153846143" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.deviceConfigUser_page">
+              <point x="-44.60869565217399" y="-14.5" />
+              <point x="1895.7543622249593" y="1104.0" />
+              <point x="1801.2308902449743" y="1104.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigTest" target="ca.uvic.seng330.assn3.deviceConfig_page">
+              <point x="-35.0" y="-14.5" />
+              <point x="59.333333333333485" y="3083.0" />
+              <point x="11.0" y="3083.0" />
+              <point x="11.0" y="1333.0" />
+              <point x="99.69379155358297" y="1333.0" />
+              <point x="99.69379155358297" y="895.0" />
+              <point x="1017.0166045306889" y="895.0" />
+              <point x="1017.0166045306889" y="626.0" />
+              <point x="2050.447115848148" y="626.0" />
+              <point x="-59.60000000000002" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraController" target="ca.uvic.seng330.assn3.devices">
+              <point x="-52.5" y="-14.5" />
+              <point x="1967.7678197818952" y="397.0" />
+              <point x="1180.6358786331693" y="397.0" />
+              <point x="35.119047619047706" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.login_page" target="ca.uvic.seng330.assn3.createUser_page">
+              <point x="-33.125" y="-14.5" />
+              <point x="2158.605277716829" y="1661.0" />
+              <point x="2167.7614015624335" y="1661.0" />
+              <point x="-38.28571428571422" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.login_page" target="ca.uvic.seng330.assn3.Main">
+              <point x="-35.33333333333326" y="14.5" />
+              <point x="2156.396944383496" y="1890.0" />
+              <point x="1966.7645097891045" y="1890.0" />
+              <point x="1966.7645097891045" y="2278.0" />
+              <point x="1431.9043064835992" y="2278.0" />
+              <point x="10.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Mediator" target="ca.uvic.seng330.assn3.devices">
+              <point x="30.0" y="14.5" />
+              <point x="410.60983565888796" y="168.0" />
+              <point x="1135.6834976807882" y="168.0" />
+              <point x="-9.833333333333485" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.NewTests" target="ca.uvic.seng330.assn3.Hub">
+              <point x="19.800000000000182" y="-14.5" />
+              <point x="90.80000000000018" y="2616.0" />
+              <point x="374.5268987419304" y="2616.0" />
+              <point x="-32.27272727272748" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.DesktopPaneTest" target="ca.uvic.seng330.assn3.login_page">
+              <point x="39.71428571428578" y="-14.5" />
+              <point x="2894.369433602499" y="2964.0" />
+              <point x="2892.3319593807933" y="2964.0" />
+              <point x="2892.3319593807933" y="1900.0" />
+              <point x="2227.0636110501623" y="1900.0" />
+              <point x="35.33333333333326" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionController" target="ca.uvic.seng330.assn3.Main">
+              <point x="-70.83333333333326" y="-14.5" />
+              <point x="2959.82181455488" y="2437.0" />
+              <point x="1451.9043064835992" y="2437.0" />
+              <point x="30.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.AdminInterfaceTest" target="ca.uvic.seng330.assn3.adminController">
+              <point x="-21.71428571428578" y="-14.5" />
+              <point x="3241.6551478882134" y="3083.0" />
+              <point x="3222.5483365875466" y="3083.0" />
+              <point x="3222.5483365875466" y="1721.0" />
+              <point x="2466.8301861134464" y="1721.0" />
+              <point x="62.30769230769238" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.Mediator">
+              <point x="-20.708333333333485" y="-14.5" />
+              <point x="386.0912926813244" y="2417.0" />
+              <point x="368.693168992221" y="2417.0" />
+              <point x="368.693168992221" y="208.0" />
+              <point x="362.60983565888796" y="208.0" />
+              <point x="-18.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.AdminInterfaceTest" target="ca.uvic.seng330.assn3.DesktopPaneTest">
+              <point x="-65.14285714285688" y="-14.5" />
+              <point x="3198.2265764596423" y="3033.0" />
+              <point x="2906.7801478882134" y="3033.0" />
+              <point x="52.125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.NewTests" target="ca.uvic.seng330.assn3.devices">
+              <point x="-19.800000000000182" y="-14.5" />
+              <point x="51.200000000000045" y="1303.0" />
+              <point x="19.39609107014394" y="1303.0" />
+              <point x="19.39609107014394" y="327.0" />
+              <point x="1099.1596881569785" y="327.0" />
+              <point x="-46.35714285714289" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraAction_page" target="ca.uvic.seng330.assn3.cameraController">
+              <point x="51.0" y="-14.5" />
+              <point x="2798.361030241155" y="775.0" />
+              <point x="2051.9741689882444" y="775.0" />
+              <point x="31.111111111111086" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoController" target="ca.uvic.seng330.assn3.devices">
+              <point x="0.0" y="-14.5" />
+              <point x="1581.1523045860865" y="606.0" />
+              <point x="1570.524500428041" y="606.0" />
+              <point x="1570.524500428041" y="447.0" />
+              <point x="1166.58825958555" y="447.0" />
+              <point x="21.07142857142844" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.DesktopPaneTest" target="ca.uvic.seng330.assn3.loginController">
+              <point x="0.0" y="-14.5" />
+              <point x="2854.6551478882134" y="2308.0" />
+              <point x="2353.584363322896" y="2308.0" />
+              <point x="42.66666666666674" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.user_page" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="-44.1875" y="-14.5" />
+              <point x="1988.5770097891045" y="1870.0" />
+              <point x="1440.0166045306885" y="1870.0" />
+              <point x="1440.0166045306885" y="875.0" />
+              <point x="1403.4880407870921" y="875.0" />
+              <point x="8.923076923076906" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Hub" target="ca.uvic.seng330.assn3.HubRegistrationException">
+              <point x="-8.875" y="-14.5" />
+              <point x="397.92462601465786" y="2397.0" />
+              <point x="380.5265023255545" y="2397.0" />
+              <point x="380.5265023255545" y="198.0" />
+              <point x="1859.733351359718" y="198.0" />
+              <point x="-69.375" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminModel" target="ca.uvic.seng330.assn3.devices">
+              <point x="43.5" y="-14.5" />
+              <point x="1438.0649638640152" y="606.0" />
+              <point x="1448.368250428041" y="606.0" />
+              <point x="1448.368250428041" y="477.0" />
+              <point x="1158.159688156979" y="477.0" />
+              <point x="12.642857142857338" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.adminController" target="ca.uvic.seng330.assn3.loginController">
+              <point x="0.0" y="14.5" />
+              <point x="2404.522493805754" y="2069.0" />
+              <point x="2337.0995148380475" y="2069.0" />
+              <point x="26.181818181818244" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.Mediator">
+              <point x="-48.66071428571422" y="-14.5" />
+              <point x="992.5114493407424" y="2865.0" />
+              <point x="278.3657880398407" y="2865.0" />
+              <point x="278.3657880398407" y="208.0" />
+              <point x="350.60983565888796" y="208.0" />
+              <point x="-30.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Main" target="ca.uvic.seng330.assn3.loginController">
+              <point x="25.0" y="-14.5" />
+              <point x="1446.9043064835992" y="2308.0" />
+              <point x="2254.0288077673404" y="2308.0" />
+              <point x="-56.888888888888914" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.HubRegistrationException">
+              <point x="49.166666666666515" y="-14.5" />
+              <point x="1194.6834976807882" y="208.0" />
+              <point x="1905.983351359718" y="208.0" />
+              <point x="-23.125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Mediator" target="ca.uvic.seng330.assn3.Status">
+              <point x="0.0" y="-14.5" />
+              <point x="380.60983565888796" y="69.0" />
+              <point x="1343.8355123328029" y="69.0" />
+              <point x="-20.0" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.devices">
+              <point x="-13.625" y="-14.5" />
+              <point x="1027.5471636264565" y="2705.0" />
+              <point x="1031.909461673546" y="2705.0" />
+              <point x="1031.909461673546" y="467.0" />
+              <point x="1138.493021490312" y="467.0" />
+              <point x="-7.023809523809632" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.Client_page" target="ca.uvic.seng330.assn3.admin_page">
+              <point x="0.0" y="-14.5" />
+              <point x="2493.8071603977633" y="1333.0" />
+              <point x="2483.45670433207" y="1333.0" />
+              <point x="2483.45670433207" y="1154.0" />
+              <point x="2531.1083591452457" y="1154.0" />
+              <point x="-10.59375" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.createUser_page" target="ca.uvic.seng330.assn3.login_page">
+              <point x="19.14285714285711" y="14.5" />
+              <point x="2225.189972991005" y="1691.0" />
+              <point x="2198.355277716829" y="1691.0" />
+              <point x="6.625" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfig_page" target="ca.uvic.seng330.assn3.adminController">
+              <point x="29.800000000000068" y="14.5" />
+              <point x="2139.847115848148" y="646.0" />
+              <point x="2378.5703182925" y="646.0" />
+              <point x="2378.5703182925" y="1472.0" />
+              <point x="2390.3119674899644" y="1472.0" />
+              <point x="-14.210526315789593" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.device_page" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="0.0" y="14.5" />
+              <point x="1114.4808902449743" y="2755.0" />
+              <point x="1047.0114493407423" y="2755.0" />
+              <point x="5.839285714285779" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfig_page" target="ca.uvic.seng330.assn3.devices">
+              <point x="0.0" y="-14.5" />
+              <point x="2110.0471158481478" y="377.0" />
+              <point x="1186.254926252217" y="377.0" />
+              <point x="40.73809523809541" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceConfigController" target="ca.uvic.seng330.assn3.cameraAction_page">
+              <point x="74.3478260869565" y="-14.5" />
+              <point x="2014.7108839640898" y="1164.0" />
+              <point x="2686.1610302411545" y="1164.0" />
+              <point x="-61.200000000000045" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.Client">
+              <point x="28.444444444444343" y="14.5" />
+              <point x="2339.3621411006734" y="2318.0" />
+              <point x="2616.077022888214" y="2318.0" />
+              <point x="2616.077022888214" y="2576.0" />
+              <point x="2643.508429969029" y="2576.0" />
+              <point x="-13.941176470588289" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.plugController" target="ca.uvic.seng330.assn3.devices">
+              <point x="0.0" y="-14.5" />
+              <point x="483.0999378640224" y="377.0" />
+              <point x="1113.2073072045978" y="377.0" />
+              <point x="-32.30952380952385" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.thermoAction_pageTest" target="ca.uvic.seng330.assn3.devices">
+              <point x="-54.6875" y="-14.5" />
+              <point x="1243.5791045306885" y="1174.0" />
+              <point x="1247.5890023255536" y="1174.0" />
+              <point x="1247.5890023255536" y="497.0" />
+              <point x="1152.5406405379313" y="497.0" />
+              <point x="7.023809523809632" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.cameraController" target="ca.uvic.seng330.assn3.Main">
+              <point x="-62.22222222222217" y="14.5" />
+              <point x="1958.6408356549111" y="895.0" />
+              <point x="1704.7308902449743" y="895.0" />
+              <point x="1704.7308902449743" y="1174.0" />
+              <point x="1409.0166045306885" y="1174.0" />
+              <point x="1409.0166045306885" y="2218.0" />
+              <point x="1401.9043064835992" y="2218.0" />
+              <point x="-20.0" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginController" target="ca.uvic.seng330.assn3.admin_page">
+              <point x="55.27272727272725" y="-14.5" />
+              <point x="2366.1904239289565" y="2119.0" />
+              <point x="2559.3071603977633" y="2119.0" />
+              <point x="2559.3071603977633" y="1154.0" />
+              <point x="2545.2333591452457" y="1154.0" />
+              <point x="3.53125" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.admin_page" target="ca.uvic.seng330.assn3.loginModel">
+              <point x="17.65625" y="14.5" />
+              <point x="2559.3583591452457" y="1134.0" />
+              <point x="2580.018199358802" y="1134.0" />
+              <point x="2580.018199358802" y="2855.0" />
+              <point x="1085.9400207693138" y="2855.0" />
+              <point x="44.76785714285711" y="-14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.loginModel" target="ca.uvic.seng330.assn3.adminModel">
+              <point x="-5.839285714285779" y="-14.5" />
+              <point x="1035.3328779121707" y="2725.0" />
+              <point x="1039.6951759592598" y="2725.0" />
+              <point x="1039.6951759592598" y="845.0" />
+              <point x="1341.0265023255538" y="845.0" />
+              <point x="-53.53846153846143" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.deviceActionController" target="ca.uvic.seng330.assn3.deviceConfigController">
+              <point x="14.166666666666515" y="-14.5" />
+              <point x="3044.82181455488" y="2437.0" />
+              <point x="3027.488481221547" y="2437.0" />
+              <point x="3027.488481221547" y="1243.0" />
+              <point x="2021.9766942407698" y="1243.0" />
+              <point x="81.61363636363649" y="14.5" />
+            </edge>
+            <edge source="ca.uvic.seng330.assn3.devices" target="ca.uvic.seng330.assn3.Status">
+              <point x="9.833333333333485" y="-14.5" />
+              <point x="1155.3501643474551" y="188.0" />
+              <point x="1159.6834976807882" y="188.0" />
+              <point x="1159.6834976807882" y="79.0" />
+              <point x="1351.8355123328029" y="79.0" />
+              <point x="-12.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8" x="1723.0" y="1176.0" />
+          <SelectedNodes>
+            <node>ca.uvic.seng330.assn3.Client_page</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/cameraTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/adminModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/AndroidClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActionUser_page.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceActionController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/HubRegistrationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/lightController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Thermostat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Temperature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/plugController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoAction_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/devices/SmartPlug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Client_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/user_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfigUser_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/loginModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2799">
+          <caret line="172" column="46" lean-forward="true" selection-start-line="172" selection-start-column="46" selection-end-line="172" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/videoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/thermoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/video_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/admin_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="142" column="19" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/device_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/addDeviceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/AdminInterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/thermoAction_pageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uvic/seng330/assn3/deviceConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Hub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-642">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/JSONMessaging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/deviceConfig_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/createUser_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/cameraAction_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/adminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/loginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uvic/seng330/assn3/login_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>assn3-team-brandon-and-jonathan</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
