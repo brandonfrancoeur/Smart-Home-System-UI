@@ -19,5 +19,6 @@ A non-administator user can only see and access the devices that are already ava
 * Notification section
 
 **What I learned:**
+
 This was the largest project that I did during university. I was responsible for writing the code for the login page, thermostat, and camera sections. I also wrote the automated tests for these devices. My partner and I collaborated heavily for the main page and the overall structure of the project. This assignment really helped to solidify the main priniples of object oriented design for me.
 
