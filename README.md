@@ -22,3 +22,4 @@ A non-administator user can only see and access the devices that are already ava
 
 This was the largest project that I did during university. I was responsible for writing the code for the login page, thermostat, and camera sections. I also wrote the automated tests for these devices. My partner and I collaborated heavily for the main page and the overall structure of the project. This assignment really helped to solidify the main priniples of object oriented design for me.
 
+I'd like to thank my partner, Jonathan Kelly for his help on this assignment. You can find his profile here: [Jon's Page](https://github.com/Jkellys).
