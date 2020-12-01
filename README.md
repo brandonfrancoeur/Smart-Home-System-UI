@@ -1,8 +1,9 @@
 Usage:
 
 To run the program, run the following command in the command line:
+```
 gradlew run
-
+```
 In order to access the system, a user account must be created using the create user button on the login page.
 A non-administator user can only see and access the devices that are already available. They cannot add/remove devices or see the activity log. They also can't turn off/ turn on the hub device.
 
